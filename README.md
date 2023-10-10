@@ -8,6 +8,10 @@ Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Studen
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrochoa)](https://github.com/jonathanrochoa/github-readme-stats)
 
+
+
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 
