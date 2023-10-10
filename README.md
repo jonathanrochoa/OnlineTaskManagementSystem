@@ -13,7 +13,6 @@ Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Studen
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
 Technology Stack Used in This Project:
 
