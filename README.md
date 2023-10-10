@@ -1,7 +1,7 @@
 # OnlineTaskManagementSystem
 
 
-
+<div>
 ABOUT ME
 <br></br>
 Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Student known for his meticulous attention to detail and expertise in data management. With proficiency in languages such as C#, SQL, Python, and Java, Jonathan specializes in back-end programming and has a strong understanding of HTML and CSS. His diverse skill set, problem-solving abilities, and dedication to process improvement make him a valuable asset to development teams, as demonstrated during his work at Surya and academic pursuits at Kennesaw State University.
@@ -9,13 +9,12 @@ Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Studen
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrochoa&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/jonathanrochoa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrochoa&show_icons=true&theme=dark)](https://github.com/jonathanrochoa/github-readme-stats)
-
+</div>
 
 <br></br>
 <br></br>
-<br></br>
 
-
+<div>
 ![github-header-image (1)](https://github.com/jonathanrochoa/OnlineTaskManagementSystem/assets/49356114/d15c0bbe-41dd-4fca-991b-1d37e8a5bed6)
 
 
@@ -90,3 +89,5 @@ Constraints and Assumptions:
 2.	The project will have a defined budget and timeline.
 3.	The system will be hosted on a cloud platform (e.g., Azure).
 4.	Users are assumed to have basic internet connectivity and web browser access.
+   
+</div>
