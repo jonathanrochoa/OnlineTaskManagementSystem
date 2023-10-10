@@ -3,8 +3,7 @@
 
 
 ABOUT ME
-<br>
-<br>
+<br></br>
 Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Student known for his meticulous attention to detail and expertise in data management. With proficiency in languages such as C#, SQL, Python, and Java, Jonathan specializes in back-end programming and has a strong understanding of HTML and CSS. His diverse skill set, problem-solving abilities, and dedication to process improvement make him a valuable asset to development teams, as demonstrated during his work at Surya and academic pursuits at Kennesaw State University.
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrochoa)](https://github.com/jonathanrochoa/github-readme-stats)
