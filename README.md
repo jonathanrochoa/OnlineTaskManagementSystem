@@ -6,7 +6,7 @@ ABOUT ME
 <br></br>
 Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Student known for his meticulous attention to detail and expertise in data management. With proficiency in languages such as C#, SQL, Python, and Java, Jonathan specializes in back-end programming and has a strong understanding of HTML and CSS. His diverse skill set, problem-solving abilities, and dedication to process improvement make him a valuable asset to development teams, as demonstrated during his work at Surya and academic pursuits at Kennesaw State University.
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrochoa)](https://github.com/jonathanrochoa/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanrochoa&show_icons=true&theme=dark)](https://github.com/jonathanrochoa/github-readme-stats)
 
 
 
@@ -20,6 +20,10 @@ Technology Stack Used in This Project:
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 Online Task Management System Project Objectives:
