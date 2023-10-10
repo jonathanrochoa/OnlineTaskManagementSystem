@@ -30,7 +30,7 @@ Technology Stack Used in This Project:
 Project Objectives:
 
 Develop a user-friendly Online Task Management System that allows individual users to manage their tasks efficiently.
-
+<br></br>
 
 Functional Requirements:
 
@@ -64,7 +64,7 @@ Functional Requirements:
   a)	Users can search for tasks and task lists.
 
   b)	Users can filter tasks based on priority, due date, or completion status.
-
+<br></br>
 
 Non-Functional Requirements:
 
@@ -97,7 +97,7 @@ Non-Functional Requirements:
   d)	Comprehensive testing should be performed, including unit testing and integration testing.
 
   e)	User acceptance testing should be conducted to ensure usability.
-
+<br></br>
 
 Constraints and Assumptions:
 1.	The system will be developed using Angular (TypeScript) for the front end and ASP.NET Core for the back end.
