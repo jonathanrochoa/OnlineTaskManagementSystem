@@ -21,7 +21,6 @@ Technology Stack Used in This Project:
 
 
 <br></br>
-<br></br>
 
 Online Task Management System Project Objectives:
 
