@@ -15,7 +15,8 @@ Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Studen
 <br></br>
 
 
-![github-header-image](https://github.com/jonathanrochoa/OnlineTaskManagementSystem/assets/49356114/911a4cd4-22cf-4287-a7dd-9d891ee4bcf9)
+![github-header-image (1)](https://github.com/jonathanrochoa/OnlineTaskManagementSystem/assets/49356114/d15c0bbe-41dd-4fca-991b-1d37e8a5bed6)
+
 
 <br></br>
 
