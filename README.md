@@ -14,14 +14,18 @@ Jonathan Ochoa Monzon is a Junior .NET Developer and Software Engineering Studen
 <br></br>
 <br></br>
 
+
+![github-header-image](https://github.com/jonathanrochoa/OnlineTaskManagementSystem/assets/49356114/911a4cd4-22cf-4287-a7dd-9d891ee4bcf9)
+
+<br></br>
+
 Technology Stack Used in This Project:
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 
 <br></br>
-
-Online Task Management System Project Objectives:
+Project Objectives:
 
 Develop a user-friendly Online Task Management System that allows individual users to manage their tasks efficiently.
 
