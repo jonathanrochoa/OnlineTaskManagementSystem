@@ -35,54 +35,68 @@ Develop a user-friendly Online Task Management System that allows individual use
 Functional Requirements:
 
 1.	User Registration and Authentication:
-a)	Users should be able to register for an account with a unique username and password.
-b)	Users should be able to log in securely to access their task lists.
+  a)	Users should be able to register for an account with a unique username and password.
 
-2.	Task Management:
-a)	Users can create, edit, and delete tasks.
-b)	Tasks can have a title, description, due date, and priority.
-c)	Tasks can be organized into multiple task lists (e.g., personal, work).
-d)	Users can mark tasks as complete.
+  b)	Users should be able to log in securely to access their task lists.
 
-3.	Task Lists:
-a)	Users can create, edit, and delete task lists.
-b)	Each task list can have a unique name.
-c)	Users can switch between different task lists.
+3.	Task Management:
+  a)	Users can create, edit, and delete tasks.
 
-4.	User Profile:
-a)	Users can view and update their profile information.
-b)	Profile information may include name, email, and profile picture.
+  b)	Tasks can have a title, description, due date, and priority.
+  
+  c)	Tasks can be organized into multiple task lists (e.g., personal, work).
+  
+  d)	Users can mark tasks as complete.
 
-5.	Search and Filter:
-a)	Users can search for tasks and task lists.
-b)	Users can filter tasks based on priority, due date, or completion status.
+5.	Task Lists:
+  a)	Users can create, edit, and delete task lists.
+
+  b)	Each task list can have a unique name.
+  
+  c)	Users can switch between different task lists.
+
+7.	User Profile:
+  a)	Users can view and update their profile information.
+
+  b)	Profile information may include name, email, and profile picture.
+
+9.	Search and Filter:
+  a)	Users can search for tasks and task lists.
+
+  b)	Users can filter tasks based on priority, due date, or completion status.
 
 
 Non-Functional Requirements:
 
 1.	User Interface:
-a)	The user interface should be intuitive and responsive, accessible on various devices.
-b)	Modern design principles should be followed for a visually appealing user experience.
+  a)	The user interface should be intuitive and responsive, accessible on various devices.
 
-2.	Security:
-a)	User data should be stored securely, including hashed passwords.
-b)	Data transmission should be encrypted.
-c)	Protection against common web vulnerabilities (e.g., XSS, CSRF) should be implemented.
+  b)	Modern design principles should be followed for a visually appealing user experience.
 
-3.	Performance:
-a)	The system should provide fast response times for user interactions.
-b)	Efficient database queries should be used to retrieve data.
+3.	Security:
+  a)	User data should be stored securely, including hashed passwords.
 
-4.	Scalability:
-a)	The system should be designed to handle potential growth in the number of users and tasks.
+  b)	Data transmission should be encrypted.
+  
+  c)	Protection against common web vulnerabilities (e.g., XSS, CSRF) should be implemented.
 
-5.	Documentation:
-b)	Comprehensive user documentation should be provided.
-c)	Code documentation and comments for developers should be maintained.
+5.	Performance:
+  a)	The system should provide fast response times for user interactions.
 
-6.	Testing:
-d)	Comprehensive testing should be performed, including unit testing and integration testing.
-e)	User acceptance testing should be conducted to ensure usability.
+  b)	Efficient database queries should be used to retrieve data.
+
+7.	Scalability:
+  a)	The system should be designed to handle potential growth in the number of users and tasks.
+
+8.	Documentation:
+  b)	Comprehensive user documentation should be provided.
+
+  c)	Code documentation and comments for developers should be maintained.
+
+10.	Testing:
+  d)	Comprehensive testing should be performed, including unit testing and integration testing.
+
+  e)	User acceptance testing should be conducted to ensure usability.
 
 
 Constraints and Assumptions:
