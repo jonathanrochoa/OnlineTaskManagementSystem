@@ -1,0 +1,67 @@
+# Ignore Angular artifacts
+node_modules/
+dist/
+
+# Ignore compiled TypeScript files
+*.js
+*.js.map
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled C# files
+bin/
+obj/
+
+# Ignore user-specific Visual Studio settings
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet package directory
+packages/
+*.nupkg
+
+# Ignore Azure specific settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore test results
+TestResults/
+
+# Ignore Azure DevOps specific settings
+/.vscode/
+/obj/
+/Drop/
+_Built/
+_ReSharper/
+Thumbs.db
+.ReSharper
+
+# Ignore application-specific settings
+appsettings.json
+
+# Ignore Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore logs and cache files
+*.log
+*.cache
+
+# Ignore Azure-related deployment artifacts
+azure-pipelines.yml
+.azuredevops/
+
+# Ignore other project-specific files and directories
+*.bak
+*.bak.*
+*.sqlite
